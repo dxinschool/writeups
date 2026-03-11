@@ -1,4 +1,4 @@
-# Play with Dinosaur I — Writeup
+# Play with Dinosaur — Writeup
 
 ## Overview
 
