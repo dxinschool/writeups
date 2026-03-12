@@ -1,4 +1,4 @@
-# Oldfashion - Detailed Reverse Engineering Writeup
+# Oldfashion - Writeup
 
 ## Challenge Overview
 
