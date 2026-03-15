@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-03-15T08:12:37.991Z",
+  "generatedAt": "2026-03-15T08:55:56.829Z",
   "writeups": [
+    {
+      "slug": [
+        "HKUST Firebird CTF 2026",
+        "web",
+        "Firebird Chan Fanclub 2"
+      ],
+      "event": "HKUST Firebird CTF 2026",
+      "category": "web",
+      "title": "Firebird Chan Fanclub 2",
+      "path": "HKUST Firebird CTF 2026/web/Firebird Chan Fanclub 2.md",
+      "createdAt": "2026-03-15T08:55:43Z",
+      "lastModified": "2026-03-15T08:55:43Z"
+    },
+    {
+      "slug": [
+        "pwnable.hk",
+        "web",
+        "JSON Weak Token"
+      ],
+      "event": "pwnable.hk",
+      "category": "web",
+      "title": "JSON Weak Token",
+      "path": "pwnable.hk/web/JSON Weak Token.md",
+      "createdAt": "2026-03-15T08:55:43Z",
+      "lastModified": "2026-03-15T08:55:43Z"
+    },
     {
       "slug": [
         "PolyU x NuttyShell Cybersecurity CTF 2026 ",
