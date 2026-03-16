@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T05:01:35.763Z",
+  "generatedAt": "2026-03-16T07:31:38.358Z",
   "writeups": [
     {
       "slug": [
@@ -12,7 +12,9 @@
       "title": "私칸字本当上手",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/misc/私칸字本当上手.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -25,7 +27,9 @@
       "title": "Secure Communication (Advanced)",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/pwn/Secure Communication (Advanced).md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -38,7 +42,9 @@
       "title": "Secure Communication",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/pwn/Secure Communication.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -51,7 +57,9 @@
       "title": "Play with Dinosaur",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/Play with Dinosaur.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -64,7 +72,9 @@
       "title": "oldfashion",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/oldfashion.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -77,7 +87,9 @@
       "title": "React2XSS",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/web/React2XSS.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -90,7 +102,9 @@
       "title": "WordPress Bug Bounty Hunter",
       "path": "PolyU x NuttyShell Cybersecurity CTF 2026/web/WordPress Bug Bounty Hunter.md",
       "createdAt": "2026-03-16T05:01:25Z",
-      "lastModified": "2026-03-16T05:01:25Z"
+      "lastModified": "2026-03-16T05:01:25Z",
+      "writer": "SYJCSteve",
+      "nickname": "SYJCSteve"
     },
     {
       "slug": [
@@ -103,7 +117,9 @@
       "title": "Bivariate Copper",
       "path": "HKCERT CTF 2025/crypto/Bivariate Copper.md",
       "createdAt": "2026-03-15T09:34:17Z",
-      "lastModified": "2026-03-15T09:34:17Z"
+      "lastModified": "2026-03-15T09:34:17Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
     },
     {
       "slug": [
@@ -116,7 +132,9 @@
       "title": "Sequences",
       "path": "picoCTF 2022/crypto/Sequences.md",
       "createdAt": "2026-03-15T09:34:17Z",
-      "lastModified": "2026-03-15T09:34:17Z"
+      "lastModified": "2026-03-15T09:34:17Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
     },
     {
       "slug": [
@@ -129,7 +147,9 @@
       "title": "Firebird Chan Fanclub 2",
       "path": "HKUST Firebird CTF 2026/web/Firebird Chan Fanclub 2.md",
       "createdAt": "2026-03-15T08:55:43Z",
-      "lastModified": "2026-03-15T08:55:43Z"
+      "lastModified": "2026-03-15T08:55:43Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
     },
     {
       "slug": [
@@ -142,7 +162,9 @@
       "title": "JSON Weak Token",
       "path": "pwnable.hk/web/JSON Weak Token.md",
       "createdAt": "2026-03-15T08:55:43Z",
-      "lastModified": "2026-03-15T08:55:43Z"
+      "lastModified": "2026-03-15T08:55:43Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
     }
   ]
 }
