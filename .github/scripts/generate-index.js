@@ -18,7 +18,7 @@ const API_BASE = 'api.github.com';
 const NICKNAME_MAP = {
   'timothy0509': 'Timothy',
   'DXinschool': 'DXuwu',
-  'SYJCsteve': 'steve'
+  'SYJCSteve': 'steve'
 };
 
 function getNickname(username) {
