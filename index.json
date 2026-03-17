@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-17T09:22:58.680Z",
+  "generatedAt": "2026-03-17T11:03:52.700Z",
   "writeups": [
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 1"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 1",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 1.md",
+      "createdAt": "2026-03-17T11:03:37Z",
+      "lastModified": "2026-03-17T11:03:37Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
     {
       "slug": [
         "picoCTF 2019",
