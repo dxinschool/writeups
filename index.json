@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T14:15:36.769Z",
+  "generatedAt": "2026-03-23T03:03:03.752Z",
   "writeups": [
+    {
+      "slug": [
+        "picoCTF 2026",
+        "rev",
+        "Secure Password Database"
+      ],
+      "event": "picoCTF 2026",
+      "category": "rev",
+      "title": "Secure Password Database",
+      "path": "picoCTF 2026/rev/Secure Password Database.md",
+      "createdAt": "2026-03-23T03:02:44Z",
+      "lastModified": "2026-03-23T03:02:44Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
     {
       "slug": [
         "picoCTF 2023",
